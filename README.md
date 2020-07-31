@@ -1,0 +1,2 @@
+# lipsolar
+Climatización de piscinas.
